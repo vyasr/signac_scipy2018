@@ -1,0 +1,12 @@
+*.DS_Store
+*.ipynb_checkpoints
+*workspace*
+*.out*
+*.err*
+*.gif
+*project.py
+*experiment.py
+*signac.rc
+*signac_project_document.json
+*__pycache__*
+*view*
